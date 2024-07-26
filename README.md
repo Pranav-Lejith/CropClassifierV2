@@ -1,6 +1,6 @@
 # CropIdentifierV2.6.0
 
-This porject was created by Pranav Lejith on 24th July 2024
+This project was created by Pranav Lejith on 24th July 2024
 
 # Function
 
