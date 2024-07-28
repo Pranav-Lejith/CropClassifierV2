@@ -40,8 +40,6 @@ To run the project if you have the model by either downloading it or by creating
 ```ruby
 streamlit run ModelInvoker.py
 ```
-# Message from Developer
-Feel free to edit the code and to change the images..
 
 # Credits
 Amphibiar
