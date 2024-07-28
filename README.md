@@ -9,3 +9,7 @@ Differeatiates Wheat and Maize using image
 # Requirements
 
 Need streamlit and tensorflow and some other libriaries
+Download the model using this link
+https://drive.google.com/file/d/18HQqSdCpw0hde0TQlBPWuXgxZN711_Ir/view?usp=sharing
+
+
