@@ -65,4 +65,4 @@ val_loss, val_accuracy = model.evaluate(val_generator)
 print(f'Validation Loss: {val_loss}')
 print(f'Validation Accuracy: {val_accuracy}')
 
-model.save('crop_classifier_model.h5')
+model.save('crop_classifier_model')
