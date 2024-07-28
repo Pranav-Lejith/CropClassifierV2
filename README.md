@@ -13,9 +13,7 @@ Download the model using this link
 https://drive.google.com/file/d/18HQqSdCpw0hde0TQlBPWuXgxZN711_Ir/view?usp=sharing
 
 Install streamlit using
-'''
+```ruby
 pip install streamlit
 pip install tensorflow
-'''
-
-
+```
