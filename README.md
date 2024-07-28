@@ -23,8 +23,12 @@ To run the project if you have not downloaded the model, run the trainModel.py f
 ```ruby
 python trainModel.py
 ```
-To run the project if you have the model by either downloading it or by creat_ng it using trainModel.py , type
+To run the project if you have the model by either downloading it or by creating it using trainModel.py , type
 ```ruby
 streamlit run ModelInvoker.py
 ```
+# Message from Developer
+Feel free to edit the code and to change the images..
 
+# Credits
+Amphibiar
