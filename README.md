@@ -17,12 +17,24 @@ Install streamlit and tensorflow using
 pip install streamlit
 pip install tensorflow
 ```
-# Executing the code
+# Executing the code(If you did not download the model)
 
 To run the project if you have not downloaded the model, run the trainModel.py file using 
 ```ruby
 python trainModel.py
 ```
+The file crop_classifier_model.h5 file would have been generated
+Now Run
+```ruby
+python Convert.py
+```
+This converts the .h5 file extenstion into a .tflite extension.
+
+Next, to run the script, type
+```ruby
+streamlit run ModelInvoker.py
+```
+# Executing the code(If you have the model downloaded)
 To run the project if you have the model by either downloading it or by creating it using trainModel.py , type
 ```ruby
 streamlit run ModelInvoker.py
