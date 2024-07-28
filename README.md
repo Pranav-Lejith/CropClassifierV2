@@ -10,7 +10,8 @@ Differentiates Wheat and Maize using image classification model built using Tens
 
 Need streamlit and tensorflow and some other libriaries
 Download the model using this link
-https://drive.google.com/file/d/18HQqSdCpw0hde0TQlBPWuXgxZN711_Ir/view?usp=sharing
+https://drive.google.com/file/d/18HQqSdCpw0hde0TQlBPWuXgxZN711_Ir/view?usp=sharing  (for .h5)
+https://drive.google.com/file/d/1mbIE1DzvU2VGVij8ETMXuRDtZ9JXuw4Y/view?usp=sharing  (for .tflite)
 
 Install streamlit and tensorflow using
 ```ruby
